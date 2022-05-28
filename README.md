@@ -1,4 +1,4 @@
-# Hello, I'm Madis0!
+# Hello, I'm Madis!
 On GitHub I mostly interact with projects related to Minecraft, Linux and all kinds of translations.
 
 On [GitLab](https://gitlab.com/Madis0) I make static websites, browser extensions and other browser tweaks.
